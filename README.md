@@ -1,11 +1,11 @@
 # QR_Generator_App
 
-Project Title: Advanced QR Code Generator
+# Project Title: Advanced QR Code Generator
 
 Project Description:
 The Advanced QR Code Generator is a web-based application that allows users to create, customize, and manage QR codes for various purposes. It provides a user-friendly interface with advanced features, user authentication, and storage capabilities. The application enables users to generate QR codes for different content types, customize their appearance, and manage their QR codes in a secure environment.
 
-Key Features:
+# Key Features:
 
 User Authentication:
 
@@ -59,7 +59,8 @@ Users can collaborate in real-time on creating and editing QR codes, making it i
 Documentation and Help Center:
 
 Comprehensive documentation and a help center are provided to assist users in understanding and utilizing the application's features.
-Technology Stack:
+
+# Technology Stack:
 
 Frontend: HTML, CSS, JavaScript, Frontend Framework (e.g., React, Angular, Vue.js)
 Backend: Node.js, Express.js
@@ -71,11 +72,12 @@ API: RESTful API for external integrations
 Real-Time Collaboration: Socket.io or similar
 Security: Encryption (HTTPS), secure password storage
 Internationalization: i18n libraries or custom localization solution
-Project Scope:
+
+# Project Scope:
 
 This project is comprehensive and involves the development of both frontend and backend components, database integration, user authentication, security, and third-party integrations. It will require careful planning, coding, and testing to ensure a secure and user-friendly application that meets the specified requirements.
 
-Project Timeline:
+# Project Timeline:
 
 The timeline for this project can vary depending on the complexity of the features, the size of the development team, and the availability of resources. It is essential to create a detailed project plan with milestones to track progress effectively.
 
