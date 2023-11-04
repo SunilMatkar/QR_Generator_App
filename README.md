@@ -78,14 +78,15 @@ Comprehensive documentation and a help center are provided to assist users in un
 # Technology Stack:
 
 Frontend: HTML, CSS, JavaScript, Frontend Framework (e.g., React, Angular, Vue.js)
+
 Backend: Node.js, Express.js
-Database: MongoDB or SQL database (for user and QR code storage)
-Authentication: Passport.js or similar
+
+Database: MongoDB database (for user and QR code storage)
+
 QR Code Generation: qrcode.js or a QR code generation library
-Analytics: Google Analytics or custom analytics solution
-API: RESTful API for external integrations
-Real-Time Collaboration: Socket.io or similar
+
 Security: Encryption (HTTPS), secure password storage
+
 Internationalization: i18n libraries or custom localization solution
 
 # Project Scope:
